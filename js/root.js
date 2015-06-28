@@ -10,4 +10,6 @@ function Loader () {
         this.stringer = new String("My String example");
         this.pointer += 1;
     }
+
+    var jsSample = "Sample";
 }
